@@ -1,0 +1,6 @@
+# build/exec paths
+.zig-cache/
+zig-out/
+
+# dev tools
+.tool-versions
